@@ -1,2 +1,4 @@
 # hashcash-client-server-implementation-onepager
-hashcash-client-server-implementation
+
+hashcash implementation onpage PoW implementation
+Add your own lient secret data. 
